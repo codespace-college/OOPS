@@ -9,8 +9,7 @@ double earthWeight = sc.nextDouble();
 
 double marsWeight = earthWeight * 0.38;
 
-System.out.println("Your weight on mars would be: " + marsWeight
-+ " pounds");
+System.out.println("Your weight on mars would be: " + marsWeight+ " pounds");
 
 }
 }
