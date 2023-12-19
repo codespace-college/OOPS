@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main{
+class p11{
   public static void main(String [] args){
     int sum=0;
     
